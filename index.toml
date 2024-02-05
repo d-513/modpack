@@ -59,13 +59,3 @@ metafile = true
 file = "mods/memoryleakfix.pw.toml"
 hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
 metafile = true
-
-[[files]]
-file = "mods/oculus.pw.toml"
-hash = "10984e9419e1c695f82ee0ddda5e5625f614996c99a7817b2eff8c6d4b1525c6"
-metafile = true
-
-[[files]]
-file = "mods/rubidium.pw.toml"
-hash = "d7de8364533f22c94fa554c48c492c86b42b4ad8af750fff3c35bb61adb8242a"
-metafile = true
