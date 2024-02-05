@@ -1,0 +1,13 @@
+name = "create-private"
+author = "d513"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ff86f10b4377d61b29de05412b136e3ccaaaba16ee9fbf554f1769c34a0114d2"
+
+[versions]
+forge = "47.2.20"
+minecraft = "1.20.1"
