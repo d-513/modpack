@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "64bf8b278979f6e2aa9dc0fb5d2168212bc9337e41fb9a9f7e114fe91695194a"
+metafile = true
+
+[[files]]
 file = "mods/create-armory.pw.toml"
 hash = "c722ca41a19d1645dd9c474b602707df49e8f7d60e1d17ca0cf858c6a1115e0f"
 metafile = true
@@ -63,4 +68,9 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
+metafile = true
+
+[[files]]
+file = "mods/wthit-forge.pw.toml"
+hash = "735d7a94cb00bada2fb6591808cc9947a584fc63b22d65808bf3595f0b22c12a"
 metafile = true
