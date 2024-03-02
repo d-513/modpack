@@ -71,6 +71,11 @@ hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
+metafile = true
+
+[[files]]
 file = "mods/wthit-forge.pw.toml"
 hash = "735d7a94cb00bada2fb6591808cc9947a584fc63b22d65808bf3595f0b22c12a"
 metafile = true
