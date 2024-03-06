@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/automobility.pw.toml"
+hash = "0b50aa5e55bf2bea86e660f15167e96e2045ba3e355cbfad6006a221b1ad0a3e"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "64bf8b278979f6e2aa9dc0fb5d2168212bc9337e41fb9a9f7e114fe91695194a"
 metafile = true
@@ -8,6 +13,11 @@ metafile = true
 [[files]]
 file = "mods/create-armory.pw.toml"
 hash = "c722ca41a19d1645dd9c474b602707df49e8f7d60e1d17ca0cf858c6a1115e0f"
+metafile = true
+
+[[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "e0015a058c703f8c670b5e557a3236e668fd2909fa13a4227519e7ce858e8186"
 metafile = true
 
 [[files]]
@@ -21,6 +31,21 @@ hash = "0b30c636800abebcb6a06d9004ba64319516628dc614136e218b92386b28b669"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "ade07fff998a724f12cae88499f9bf12008b401158a2ad5287819c733e4ff9e4"
+metafile = true
+
+[[files]]
+file = "mods/create-garnished.pw.toml"
+hash = "913507dddce1bb2ac6bb7fd677b6904dac6bed1f34eae2696705d4226d55a2b3"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "84862198ea90502b84102b78979865ebe165f4c2dae242f339d836132c1f31c1"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "28cd35abd7f84a4d2f04fb50128bf272cafeac126dbdd6c20cb9c27eb0cd3d76"
 metafile = true
@@ -28,6 +53,11 @@ metafile = true
 [[files]]
 file = "mods/create-structures.pw.toml"
 hash = "d88d1845469a6f316eede279741cdedfc7489b3bef6c66405fff999e70d6c189"
+metafile = true
+
+[[files]]
+file = "mods/create-stuff-additions.pw.toml"
+hash = "4c6fbf3f3ea6f6fc907d9673a77dd991776c55ad7a25d0011034d66624616518"
 metafile = true
 
 [[files]]
@@ -53,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "cd78d571bf4a7e90cf67e1bfaa868bb2fecf396eff126b2313ff846ae834ed68"
+metafile = true
+
+[[files]]
+file = "mods/interactive.pw.toml"
+hash = "6864eb4954dc85bacdeffbb8fcf6f0e13d6cc6fd2c0f384cd0a0800e309879aa"
 metafile = true
 
 [[files]]
