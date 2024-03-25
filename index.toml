@@ -46,11 +46,6 @@ hash = "913507dddce1bb2ac6bb7fd677b6904dac6bed1f34eae2696705d4226d55a2b3"
 metafile = true
 
 [[files]]
-file = "mods/create-liquid-fuel.pw.toml"
-hash = "b37a3699b9a3340b4ed9be7e59b1c1901a0255b4a4c20a2b06819197dee0ce95"
-metafile = true
-
-[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "84862198ea90502b84102b78979865ebe165f4c2dae242f339d836132c1f31c1"
 metafile = true
@@ -78,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "c464b21ac8baf5ed1d22a0c4bacfcf24977e04dc938add65a2a93bcaf704c22e"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "f65266cb549dfdbd4e72288d5c80be2090a288c0986800fcabc0de1702d634c4"
 metafile = true
 
 [[files]]
