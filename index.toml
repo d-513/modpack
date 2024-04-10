@@ -51,6 +51,11 @@ hash = "74bd427e3dbfec0c40ff2a99a3f741785cfbb2577612ef4c41880abe98438185"
 metafile = true
 
 [[files]]
+file = "mods/create-misc-and-things.pw.toml"
+hash = "2e5277e3399781103d429cde92562a6b70ad573b7cb0fa360239c6351c8a81d9"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "84862198ea90502b84102b78979865ebe165f4c2dae242f339d836132c1f31c1"
 metafile = true
