@@ -146,6 +146,11 @@ hash = "b3f7fa88248c3c590c3f5a3b6bfea5926f8d6449ee4da4cac31ffcc1c348c1e3"
 metafile = true
 
 [[files]]
+file = "mods/roughly-enough-items-hacks.pw.toml"
+hash = "7986425df54d16850b84c3c8bc63fe963dceb19c5190f67839c5bddf22730ee7"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "ccefbc00ed1838907acb5ec379784f9a52a1141c880ef0282e9c079355876702"
 metafile = true
