@@ -11,6 +11,11 @@ hash = "64bf8b278979f6e2aa9dc0fb5d2168212bc9337e41fb9a9f7e114fe91695194a"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "76c2b4eafe19aa4cc05eebbcdc81772502961ded240f21180250cd90eb2ba4c6"
+metafile = true
+
+[[files]]
 file = "mods/canary.pw.toml"
 hash = "a388f4afe890e268a739cf598b68859ca3d86506a3fa3e46c17e4aa63debd309"
 metafile = true
