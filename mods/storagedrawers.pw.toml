@@ -1,13 +1,13 @@
 name = "Storage Drawers"
-filename = "StorageDrawers-1.20.1-12.9.4.jar"
+filename = "StorageDrawers-1.20.1-12.9.14.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/guitPqEi/versions/Jy2ktQzA/StorageDrawers-1.20.1-12.9.4.jar"
+url = "https://cdn.modrinth.com/data/guitPqEi/versions/yt3QLYcE/StorageDrawers-1.20.1-12.9.14.jar"
 hash-format = "sha1"
-hash = "b005e4276edd8be20103d5401db06430e3f6913f"
+hash = "d42027b75690a27f0e915fea0988d40571eeec11"
 
 [update]
 [update.modrinth]
 mod-id = "guitPqEi"
-version = "Jy2ktQzA"
+version = "yt3QLYcE"
