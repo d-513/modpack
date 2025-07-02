@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "975faa93d4449830512d7b0dbc74c347e3b141ef07be18867250f937ce2e67d2"
+
+[[files]]
 file = "mods/automobility.pw.toml"
 hash = "0b50aa5e55bf2bea86e660f15167e96e2045ba3e355cbfad6006a221b1ad0a3e"
 metafile = true
@@ -174,7 +178,3 @@ metafile = true
 file = "mods/wthit-forge.pw.toml"
 hash = "36ba0efd22af7d93247f1498060e6d919be74d415508decb26625a5b3af2370e"
 metafile = true
-
-[[files]]
-file = "test.txt"
-hash = "181210f8f9c779c26da1d9b2075bde0127302ee0e3fca38c9a83f5b1dd8e5d3b"
