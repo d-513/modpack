@@ -5,6 +5,10 @@ file = "README.md"
 hash = "dda9618ea6a738101f95c288aeb5bf4c3235a32276a9e67acbac729e3730f911"
 
 [[files]]
+file = "mods/Create-Better-Storages-Forge-1.20.1-1.0b.Release.jar"
+hash = "9fe3e941ab531eca2cb19fd106d8a8ab9338736b1e1731d3f00c851833d539cd"
+
+[[files]]
 file = "mods/automobility.pw.toml"
 hash = "0b50aa5e55bf2bea86e660f15167e96e2045ba3e355cbfad6006a221b1ad0a3e"
 metafile = true
