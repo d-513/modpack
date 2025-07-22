@@ -154,6 +154,11 @@ hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "cc83aa838038bc43e9db3a173b15740108d2c3a38c1398c3a8ed9efd63faa2dd"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "9d2f9bb814e0486ee86312d493564f7adeaf62b649344234b79f0457d962f0eb"
 metafile = true
