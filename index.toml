@@ -154,6 +154,11 @@ hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
 metafile = true
 
 [[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "720929c1c19a3009e0d454d7de8d08f5e0c2e4c13cbe1f87ff948146a1ee3210"
+metafile = true
+
+[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "cc83aa838038bc43e9db3a173b15740108d2c3a38c1398c3a8ed9efd63faa2dd"
 metafile = true
@@ -186,4 +191,14 @@ metafile = true
 [[files]]
 file = "mods/wthit-forge.pw.toml"
 hash = "123d4fadec22e58fb743911f31d271e5f5dfb668769107fc27bdf9d361e7fcb8"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "e5c2d03118ee3d30e621b2ac5602900361998bf543397133f66f0e93c60e2505"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "5f2fa3075b6dc9616649c6d15966a6c69430a0a2101c09240743136f9182cd2d"
 metafile = true

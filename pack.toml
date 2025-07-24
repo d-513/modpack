@@ -1,12 +1,12 @@
 name = "create-private"
 author = "d513"
-version = "1.4.0"
+version = "1.5.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "03e9f08344877099baa55e73bd1700d061816432cfa2c1a7849951565817f218"
+hash = "2863878fcdfd5395154261dcae733375a90dd5dbb144dc61b0451b9011b36659"
 
 [versions]
 forge = "47.3.0"
